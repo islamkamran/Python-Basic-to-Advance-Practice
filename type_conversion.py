@@ -1,0 +1,6 @@
+print(int("42"))
+print(float("3.14"))
+print(str(42))
+print(bool(0))
+print(bool(1))
+print(list("123"))
