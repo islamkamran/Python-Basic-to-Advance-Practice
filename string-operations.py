@@ -1,0 +1,7 @@
+print("a".upper())
+print("HELLO".lower())
+print("   Hello World   ".strip())
+print("Hello World".split())
+print("Hello World".replace("World", "Python"))
+print("Hello World".find("World"))
+print("-".join(["Hello", "World"]))
